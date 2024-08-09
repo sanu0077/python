@@ -4,8 +4,10 @@
 
 number = int(input("Enter the student's number :"))
 
-if number >=90 :
-    print("Student grade is A")
+if number >100 :
+    print("Please Enter valid number")
+elif number >=90 :
+    print("student grade is A")    
 elif number >=80 :
     print("student grade is B")   
 elif number >=70 :
