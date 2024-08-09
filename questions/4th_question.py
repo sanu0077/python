@@ -8,4 +8,4 @@ if color == "Green" :
 elif color == "Yellow" :
     print(fruit,"is Ripe")
 else :
-    print(fruit,"is Overripe")    
+    print(fruit,"is Overripe")  

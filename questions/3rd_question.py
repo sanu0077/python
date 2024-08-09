@@ -5,7 +5,7 @@
 number = int(input("Enter the student's number :"))
 grade = 0
 
-if number >100 or number < 0 :
+if (number >100 or number < 0) :
     print("Please Enter valid number")
 elif number >=90 :
     print("student grade is A")    
